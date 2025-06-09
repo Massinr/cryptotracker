@@ -57,6 +57,5 @@
     "gh-pages": "^6.3.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.0"
-  },
-  "homepage": "https://Massinr.github.io/cryptotracker"
+  }
 }
